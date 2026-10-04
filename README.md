@@ -10,8 +10,8 @@ I also run IT, finance and operations for a growing multi-site organization, so 
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [Project Pilot](https://github.com/Matthew-Uhlar/ai-project-management-assistant) | Agile planning tool with a Kanban board and an AI assistant for user stories, story points, sprint summaries and risk review | C#, ASP.NET Core 8, EF Core, React, TypeScript, PostgreSQL, Docker |
-| [SupportFlow](https://github.com/Matthew-Uhlar/supportflow-helpdesk) | Help desk API with employee, technician and admin roles, status workflows, audit history and reporting | Java 21, Spring Boot 3, Spring Security, JPA, PostgreSQL, JUnit 5 |
+| [Project Pilot](https://github.com/Matthew-Uhlar/ai-project-management-assistant) | Agile planning tool with a Kanban board and a Claude-powered assistant for user stories, story points, sprint summaries and risk review | C#, ASP.NET Core 8, EF Core, React, TypeScript, PostgreSQL, Docker |
+| [SupportFlow](https://github.com/Matthew-Uhlar/supportflow-helpdesk) | Help desk with a React frontend, employee, technician and admin roles, status workflows, audit history and reporting | Java 21, Spring Boot 3, Spring Security, PostgreSQL, React, TypeScript |
 | [Response Grid](https://github.com/Matthew-Uhlar/emergency-response-platform) | Real-time emergency dispatch: incidents and unit status pushed live to every client | C#, ASP.NET Core 8, SignalR, React, PostgreSQL |
 | [SignalReady](https://github.com/Matthew-Uhlar/signalready) | Predictive maintenance modeling studio built solo for the ABB Accelerator Hackathon 2026 | Python, scikit-learn, pandas, Streamlit, pytest |
 | [StockPilot](https://github.com/Matthew-Uhlar/enterprise-inventory-system) | Inventory and asset management with reorder alerts and a purchase approval workflow | C#, ASP.NET Core 8, React, TypeScript, PostgreSQL |
